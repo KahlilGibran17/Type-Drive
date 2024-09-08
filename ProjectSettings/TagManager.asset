@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Place
+  - CustomerSpawnPoint
+  - SparePart
+  - Store
+  - CustomerHouse
+  - Customers
+  - Customer
+  - Canvas
+  - HandphoneUI
+  - SparePartCanvas
+  - Notification
+  - PlaySceneController
+  - TimerText
+  - TimerSlider
+  - Oil
+  - ShockBreaker
+  - Battery
+  - Girl
+  - Thief
+  - Man
+  - House1
+  - House2
+  - House3
+  - House4
+  - Customer1
+  - Customer2
+  - Customer3
+  - Customer4
+  - Destination
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Place
+  - Water
+  - UI
+  - CustomerSpawnPoint
+  - RoadLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
